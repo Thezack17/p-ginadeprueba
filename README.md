@@ -6,8 +6,7 @@
   <h1>Mi primera página creada con GitHub</h1>
 </head>
 
-<a href="https://github.com/"> 
-</a>
+<a href="https://github.com/"> Visita esta página </a>
   
  
 <img src="https://miro.medium.com/max/719/1*WaaXnUvhvrswhBJSw4YTuQ.png" width="104" height="142">
