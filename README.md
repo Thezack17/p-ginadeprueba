@@ -1,6 +1,6 @@
 <DOCTYPEhtml>
 <html>
-<body style = "background-color: powderblack" >
+<body>
 
 <head>
   <h1>Mi primera página creada con GitHub</h1>
