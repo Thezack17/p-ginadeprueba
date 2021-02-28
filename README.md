@@ -12,6 +12,7 @@
  
 <p>Página creada con hmtl </p>
 
+<input type="text" value ="Buscar..."/>
 
 </body>
 </html>
